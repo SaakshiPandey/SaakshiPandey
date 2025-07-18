@@ -2,8 +2,9 @@
 <h3 align="center">Data Enthusiast | Backend Developer | ML & AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F36E5E&center=true&vCenter=true&width=435&lines=Big+Data+Analytics+Student;Python+%7C+FastAPI+%7C+MySQL;AI+%2F+ML+%2F+DL+%2F+NLP+Projects;Open+Source+Contributor+%F0%9F%92%BB;Actively+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F36E5E&center=true&vCenter=true&width=435&lines=Software+Developer+Enthusiast;Web+Developer;Budding+Data+Analyst;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
