@@ -9,23 +9,15 @@
 
 ### 👩‍🎓 About Me
 
-- 🎓 **B.Tech (CSE - Big Data Analytics)** from **SRM IST** `2023–2027`
-- 💼 **Software Engineering Virtual Experience** @ Walmart Global Tech
-- 📚 Researching **Medicine Authentication Using Blockchain & ML**
-- 🧠 Passionate about **NLP, AI/ML**, and building scalable backend systems
-- ✍️ Currently working on: `Time-Series Forecasting`, `LLMs`, and `Python Backends`
-- 🌱 Learning: Docker 🐳 | HuggingFace 🤗 | Transformers | Ethereum 🔐
-- 👩‍💻 Always excited to contribute to open source and learn with the community!
+- 🎓 Undergraduate student pursuing Computer Science and Engineering with a focus on Big Data Analytics.
+- 🧠 Deeply interested in Artificial Intelligence, Machine Learning, and developing efficient backend systems.
+- ✍️ Currently exploring topics like Time-Series Forecasting, Large Language Models (LLMs), and data-driven software development.
+- 💡 Always eager to solve real-world problems, contribute to open-source, and collaborate on innovative tech projects.
+
 
 ---
 
-### 🚀 Projects Showcase
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔮 **StockSageAI** | Stock advisory system with LSTM & Random Forest for investment tips | `React.js`, `FastAPI`, `MongoDB`, `Python` |
-| 🧠 **MindLyTics** | Sentiment dashboard for Reddit using HuggingFace & Detoxify | `Python`, `Transformers`, `PRAW`, `Streamlit` |
-| ⚡ **Energy Demand Forecasting** | Forecasting electricity use using time-series models | `TinyTimeMixers`, `NumPy`, `Matplotlib` |
 
 ---
 
@@ -50,14 +42,6 @@
 
 ---
 
-### 🏅 Certifications
-
-- 🧠 IBM: Machine Learning for Data Science (June 2025)
-- 🔬 Infosys: Deep Learning for Developers (May 2025)
-- 📊 Cisco: Data Analytics Essentials (Dec 2024)
-- 🤖 AICTE Google AI-ML Internship (May 2025)
-
----
 
 ### 🏆 Leadership
 
@@ -71,9 +55,9 @@ Led technical events, research collaborations & ML/AI workshops for 80+ members.
 
 <p align="center">
   <a href="mailto:saakshipandey1007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saakshi-pandey-8a1946248/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SaakshiPandey"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"/></a>
+  <a href="https://portfolio-new-five-topaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge"/></a>
 </p>
 
 ---
