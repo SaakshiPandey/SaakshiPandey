@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saakshi Pandey</h1>
-<h3 align="center">Data Enthusiast | Backend Developer | ML & AI Explorer</h3>
+<h3 align="center">Software Enthusiast |  Data Enthusiast | Frontend Developer | ML & AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F36E5E&center=true&vCenter=true&width=435&lines=Software+Developer+Enthusiast;Web+Developer;Budding+Data+Analyst;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
